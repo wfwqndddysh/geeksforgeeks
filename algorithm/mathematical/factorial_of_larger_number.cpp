@@ -53,7 +53,7 @@ int multiply(int x, int res[], int res_size)
 // Driver program
 int main()
 {
-    factorial(1000);
+    factorial(100);
     return 0;
 }
 

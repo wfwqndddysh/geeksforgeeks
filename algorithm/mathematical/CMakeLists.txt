@@ -37,5 +37,6 @@ set(CMAKE_CXX_FLAGS_RELEASE "${WARNING_FLAGS} ${COMPILE_FLAGS} ${RELEASE_FLAGS}"
 #==============================================================================
 # really start ...
 #==============================================================================
-add_executable(factorial_of_larger_number factorial_of_larger_number.c)
+add_executable(factorial_of_larger_number factorial_of_larger_number.cpp)
+add_executable(linear_equation_solution linear_equation_solution.cpp)
 
